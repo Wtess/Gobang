@@ -1,0 +1,9 @@
+﻿  WndProc.cpp
+  GobangMain.cpp
+  Game_Init.cpp
+  正在生成代码...
+d:\source\gobangsystem\gobangsystem\gobangsystem\game_init.cpp(8): error C4716: “Game_Init”: 必须返回一个值
+d:\source\gobangsystem\gobangsystem\gobangsystem\wndproc.cpp(35): warning C4715: “WndProc”: 不是所有的控件路径都返回值
+  正在编译...
+  stdafx.cpp
+  正在生成代码...
